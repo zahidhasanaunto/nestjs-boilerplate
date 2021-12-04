@@ -1,0 +1,11 @@
+node_modules
+dist
+logs
+package-lock.json
+# environments/development.env
+yarn-error.log
+yarn.lock
+.vscode
+gitPush.sh
+testFiles
+view

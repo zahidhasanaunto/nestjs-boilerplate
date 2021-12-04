@@ -1,0 +1,3761 @@
+
+{
+	"results": [
+		{
+			"id": "1245",
+			"city": "300 Feet, Dhaka"
+		},
+		{
+			"id": "1304",
+			"city": "Abdullahpur, Dhaka"
+		},
+		{
+			"id": "7",
+			"city": "Adabor, Dhaka"
+		},
+		{
+			"id": "818",
+			"city": "Adamdighi (Bogra), Bogra"
+		}, 
+		{
+			"id": "1091",
+			"city": "Aditmari, Lalmonirhat"
+		},
+		{
+			"id": "1323",
+			"city": "Aftab Nagar, Dhaka"
+		},
+		{
+			"id": "94",
+			"city": "Aftabnagar, Dhaka"
+		},
+		{
+			"id": "1178",
+			"city": "Aga Nagar, Dhaka"
+		},
+		{
+			"id": "928",
+			"city": "Agailjhara, Barisal"
+		},
+		{
+			"id": "17",
+			"city": "Agargaon, Dhaka"
+		},
+		{
+			"id": "1318",
+			"city": "Ahalia-Uttara, Dhaka"
+		},
+		{
+			"id": "1170",
+			"city": "Ahmed Nagar, Dhaka"
+		},
+		{
+			"id": "1319",
+			"city": "Ainusbag-Uttara, Dhaka"
+		},
+		{
+			"id": "1176",
+			"city": "Ajiz Market, Dhaka"
+		},
+		{
+			"id": "885",
+			"city": "Ajmeriganj, Habiganj"
+		},
+		{
+			"id": "970",
+			"city": "Akhaura, Brahmanbaria"
+		},
+		{
+			"id": "835",
+			"city": "Akkelpur, Joypurhat"
+		},
+		{
+			"id": "764",
+			"city": "Alamdanga, Chuadanga"
+		},
+		{
+			"id": "1222",
+			"city": "Alatunnessa School Road, Dhaka"
+		},
+		{
+			"id": "638",
+			"city": "Alfadanga, Faridpur"
+		},
+		{
+			"id": "963",
+			"city": "Ali Kadam, Bandarban"
+		},
+		{
+			"id": "1249",
+			"city": "Alubazar, Dhaka"
+		},
+		{
+			"id": "283",
+			"city": "Amin Bazar, Dhaka"
+		}, 
+		{
+			"id": "923",
+			"city": "Amtali, Barguna"
+		},
+		{
+			"id": "986",
+			"city": "Anwara, Chittagong"
+		},
+		{
+			"id": "1199",
+			"city": "Apollo, Dhaka"
+		},
+		{
+			"id": "706",
+			"city": "Araihazar, Narayanganj"
+		},
+		{
+			"id": "334",
+			"city": "Arambag, Dhaka"
+		},
+		{
+			"id": "346",
+			"city": "Armanitola, Dhaka"
+		},
+		{
+			"id": "106",
+			"city": "Asad Avenue, Dhaka"
+		},
+		{
+			"id": "50",
+			"city": "Ashkona, Dhaka"
+		},
+		{
+			"id": "971",
+			"city": "Ashuganj, Brahmanbaria"
+		},
+		{
+			"id": "282",
+			"city": "Ashulia, Dhaka"
+		},
+		{
+			"id": "811",
+			"city": "Assasuni, Satkhira"
+		},
+		{
+			"id": "857",
+			"city": "Atgharia, Pabna"
+		},
+		{
+			"id": "1302",
+			"city": "Atipara, Dhaka"
+		},
+		{
+			"id": "717",
+			"city": "Atpara, Netrokona"
+		},
+		{
+			"id": "840",
+			"city": "Atrai, Naogaon"
+		},
+		{
+			"id": "1102",
+			"city": "Atwari, Panchagarh"
+		},
+		{
+			"id": "1194",
+			"city": "Auchpara, Dhaka"
+		},
+		{
+			"id": "664",
+			"city": "Austogram, Kishoreganj"
+		},
+		{
+			"id": "68",
+			"city": "Azampur, Dhaka"
+		},
+		{
+			"id": "1151",
+			"city": "Azampur (East), Dhaka"
+		},
+		{
+			"id": "1159",
+			"city": "Azampur (West), Dhaka"
+		},
+		{
+			"id": "115",
+			"city": "Azimpur, Dhaka"
+		},
+		{
+			"id": "91",
+			"city": "Aziz Palli, Dhaka"
+		},
+		{
+			"id": "1186",
+			"city": "Babli Masjid, Dhaka"
+		},
+		{
+			"id": "269",
+			"city": "Babubazar, Dhaka"
+		},
+		{
+			"id": "929",
+			"city": "Babuganj, Barisal"
+		},
+		{
+			"id": "841",
+			"city": "Badalgachi, Naogaon"
+		},
+		{
+			"id": "1250",
+			"city": "Badam Toli, Dhaka"
+		},
+		{
+			"id": "1107",
+			"city": "Badarganj, Rangpur"
+		},
+		{
+			"id": "78",
+			"city": "Badda, Dhaka"
+		},
+		{
+			"id": "1278",
+			"city": "Badekomelosshor, Dhaka"
+		},
+		{
+			"id": "755",
+			"city": "Bagerhat Sadar, Bagerhat"
+		},
+		{
+			"id": "866",
+			"city": "Bagha, Rajshahi"
+		},
+		{
+			"id": "1052",
+			"city": "Baghaichari, Rangamati"
+		},
+		{
+			"id": "851",
+			"city": "Baghatipara, Natore"
+		},
+		{
+			"id": "769",
+			"city": "Bagherpara, Jessore"
+		},
+		{
+			"id": "867",
+			"city": "Bagmara, Rajshahi"
+		},
+		{
+			"id": "886",
+			"city": "Bahubal, Habiganj"
+		},
+		{
+			"id": "35",
+			"city": "Baigertek, Dhaka"
+		},
+		{
+			"id": "153",
+			"city": "Baily Road, Dhaka"
+		},
+		{
+			"id": "1127",
+			"city": "Baipayl, Dhaka"
+		},
+		{
+			"id": "665",
+			"city": "Bajitpur, Kishoreganj"
+		},
+		{
+			"id": "930",
+			"city": "Bakerganj, Barisal"
+		},
+		{
+			"id": "184",
+			"city": "Bakshibazar, Dhaka"
+		},
+		{
+			"id": "657",
+			"city": "Bakshiganj, Jamalpur"
+		},
+		{
+			"id": "911",
+			"city": "Balaganj, Sylhet"
+		},
+		{
+			"id": "1115",
+			"city": "Baliadangi, Thakurgaon"
+		},
+		{
+			"id": "727",
+			"city": "Baliakandi, Rajbari"
+		},
+		{
+			"id": "41",
+			"city": "Balughat, Dhaka"
+		},
+		{
+			"id": "924",
+			"city": "Bamna, Barguna"
+		},
+		{
+			"id": "1163",
+			"city": "Bamnartek, Dhaka"
+		},
+		{
+			"id": "85",
+			"city": "Banani, Dhaka"
+		},
+		{
+			"id": "86",
+			"city": "Banani DOHS, Dhaka"
+		},
+		{
+			"id": "931",
+			"city": "Banaripara, Barisal"
+		},
+		{
+			"id": "172",
+			"city": "Banasree, Dhaka"
+		},
+		{
+			"id": "972",
+			"city": "Bancharampur, Brahmanbaria"
+		},
+		{
+			"id": "707",
+			"city": "Bandar, Narayanganj"
+		},
+		{
+			"id": "964",
+			"city": "Bandarban Sadar, Bandarban"
+		},
+		{
+			"id": "357",
+			"city": "Bangla Bazar, Dhaka"
+		},
+		{
+			"id": "182",
+			"city": "Banglamotor, Dhaka"
+		},
+		{
+			"id": "887",
+			"city": "Baniachang, Habiganj"
+		},
+		{
+			"id": "987",
+			"city": "Banshkhali, Chittagong"
+		},
+		{
+			"id": "1136",
+			"city": "Barahatia, Chittagong"
+		},
+		{
+			"id": "852",
+			"city": "Baraigram, Natore"
+		},
+		{
+			"id": "925",
+			"city": "Barguna Sadar, Barguna"
+		},
+		{
+			"id": "718",
+			"city": "Barhatta, Netrokona"
+		},
+		{
+			"id": "75",
+			"city": "Baridhara, Dhaka"
+		},
+		{
+			"id": "76",
+			"city": "Baridhara DOHS, Dhaka"
+		},
+		{
+			"id": "932",
+			"city": "Barisal Sadar, Barisal"
+		},
+		{
+			"id": "1053",
+			"city": "Barkal, Rangamati"
+		},
+		{
+			"id": "893",
+			"city": "Barlekha, Moulvibazar"
+		},
+		{
+			"id": "42",
+			"city": "Barontek, Dhaka"
+		},
+		{
+			"id": "1316",
+			"city": "Barua, Dhaka"
+		},
+		{
+			"id": "1000",
+			"city": "Barura, Comilla"
+		},
+		{
+			"id": "165",
+			"city": "Bashabo, Dhaka"
+		},
+		{
+			"id": "743",
+			"city": "Bashail, Tangail"
+		},
+		{
+			"id": "92",
+			"city": "Bashtola, Dhaka"
+		},
+		{
+			"id": "72",
+			"city": "Bashundhara R/A, Dhaka"
+		},
+		{
+			"id": "782",
+			"city": "Batiaghata, Khulna"
+		},
+		{
+			"id": "949",
+			"city": "Bauphal, Patuakhali"
+		},
+		{
+			"id": "1201",
+			"city": "Bawaila Para, Dhaka"
+		},
+		{
+			"id": "175",
+			"city": "Bawaliapara, Dhaka"
+		},
+		{
+			"id": "34",
+			"city": "Bawnia, Dhaka"
+		},
+		{
+			"id": "1299",
+			"city": "BDR Market-House Building, Dhaka"
+		},
+		{
+			"id": "1300",
+			"city": "BDR Market-Sector 6, Dhaka"
+		},
+		{
+			"id": "912",
+			"city": "Beanibazar, Sylhet"
+		},
+		{
+			"id": "1043",
+			"city": "Begumganj, Noakhali"
+		},
+		{
+			"id": "711",
+			"city": "Belabo, Norshingdi"
+		},
+		{
+			"id": "1054",
+			"city": "Belaichari, Rangamati"
+		},
+		{
+			"id": "876",
+			"city": "Belkuchi, Sirajganj"
+		},
+		{
+			"id": "1129",
+			"city": "Benapole, Jessore"
+		},
+		{
+			"id": "1337",
+			"city": "Benaroshi Polli, Dhaka"
+		},
+		{
+			"id": "858",
+			"city": "Bera, Pabna"
+		},
+		{
+			"id": "1338",
+			"city": "Beribadh-Mirpur, Dhaka"
+		},
+		{
+			"id": "926",
+			"city": "Betagi, Barguna"
+		},
+		{
+			"id": "1266",
+			"city": "Bhadam, Dhaka"
+		},
+		{
+			"id": "666",
+			"city": "Bhairab, Kishoreganj"
+		},
+		{
+			"id": "694",
+			"city": "Bhaluka, Mymensingh"
+		},
+		{
+			"id": "956",
+			"city": "Bhandaria, Perojpur"
+		},
+		{
+			"id": "639",
+			"city": "Bhanga, Faridpur"
+		},
+		{
+			"id": "859",
+			"city": "Bhangura, Pabna"
+		},
+		{
+			"id": "1162",
+			"city": "Bhatuliya, Dhaka"
+		},
+		{
+			"id": "732",
+			"city": "Bhedarganj, Shariatpur"
+		},
+		{
+			"id": "795",
+			"city": "Bheramara, Kushtia"
+		},
+		{
+			"id": "938",
+			"city": "Bhola Sadar, Bhola"
+		},
+		{
+			"id": "830",
+			"city": "Bholahat, Chapai Nawabganj"
+		},
+		{
+			"id": "744",
+			"city": "Bhuapur, Tangail"
+		},
+		{
+			"id": "1247",
+			"city": "Bhuigarh-Narayangonj, Dhaka"
+		},
+		{
+			"id": "1082",
+			"city": "Bhurungamari, Kurigram"
+		},
+		{
+			"id": "95",
+			"city": "Bijoy Shoroni, Dhaka"
+		},
+		{
+			"id": "142",
+			"city": "Bijoynagar, Dhaka"
+		},
+		{
+			"id": "1062",
+			"city": "Birampur, Dinajpur"
+		},
+		{
+			"id": "1063",
+			"city": "Birganj, Dinajpur"
+		},
+		{
+			"id": "1064",
+			"city": "Birol, Dinajpur"
+		},
+		{
+			"id": "1131",
+			"city": "Birulia, Dhaka"
+		},
+		{
+			"id": "900",
+			"city": "Biswambharpur, Sunamganj"
+		},
+		{
+			"id": "913",
+			"city": "Biswanath, Sylhet"
+		},
+		{
+			"id": "1218",
+			"city": "BNP Bazar, Dhaka"
+		},
+		{
+			"id": "988",
+			"city": "Boalkhali, Chittagong"
+		},
+		{
+			"id": "640",
+			"city": "Boalmari, Faridpur"
+		},
+		{
+			"id": "1191",
+			"city": "Board Bazar, Dhaka"
+		},
+		{
+			"id": "1271",
+			"city": "Boardbazar, Dhaka"
+		},
+		{
+			"id": "1065",
+			"city": "Bochaganj, Dinajpur"
+		},
+		{
+			"id": "1103",
+			"city": "Boda, Panchagarh"
+		},
+		{
+			"id": "819",
+			"city": "Bogra Sadar, Bogra"
+		},
+		{
+			"id": "1135",
+			"city": "Bondor (CTG), Chittagong"
+		},
+		{
+			"id": "130",
+			"city": "Bongo Bazar, Dhaka"
+		},
+		{
+			"id": "147",
+			"city": "Bongo Bondhu Avenue, Dhaka"
+		},
+		{
+			"id": "316",
+			"city": "Bongshal, Dhaka"
+		},
+		{
+			"id": "1264",
+			"city": "Bonomala, Dhaka"
+		},
+		{
+			"id": "939",
+			"city": "Borhanuddin, Bhola"
+		},
+		{
+			"id": "1190",
+			"city": "Boro Bari, Dhaka"
+		},
+		{
+			"id": "1291",
+			"city": "Boro Dewra, Dhaka"
+		},
+		{
+			"id": "1267",
+			"city": "Boro Dewra Dakkhin Para, Dhaka"
+		},
+		{
+			"id": "1279",
+			"city": "Borobari, Dhaka"
+		},
+		{
+			"id": "309",
+			"city": "Bosila, Dhaka"
+		},
+		{
+			"id": "1224",
+			"city": "Bou Bazar, Dhaka"
+		},
+		{
+			"id": "973",
+			"city": "Brahmanbaria Sadar, Brahmanbaria"
+		},
+		{
+			"id": "1001",
+			"city": "Brahmanpara, Comilla"
+		},
+		{
+			"id": "1346",
+			"city": "BRTA, Dhaka"
+		},
+		{
+			"id": "1339",
+			"city": "Buddhijibi Road, Dhaka"
+		},
+		{
+			"id": "1207",
+			"city": "Buddho Mondir, Dhaka"
+		},
+		{
+			"id": "1002",
+			"city": "Burichang, Comilla"
+		},
+		{
+			"id": "1340",
+			"city": "Cantonment, Dhaka"
+		},
+		{
+			"id": "188",
+			"city": "Central Road, Dhaka"
+		},
+		{
+			"id": "1141",
+			"city": "Chad Uddan, Dhaka"
+		},
+		{
+			"id": "1024",
+			"city": "Chagalnayya, Feni"
+		},
+		{
+			"id": "1225",
+			"city": "Chairman Goli, Dhaka"
+		},
+		{
+			"id": "1016",
+			"city": "Chakoria, Cox's Bazar"
+		},
+		{
+			"id": "1149",
+			"city": "Chalabon, Dhaka"
+		},
+		{
+			"id": "1251",
+			"city": "Chamelibag, Dhaka"
+		},
+		{
+			"id": "1311",
+			"city": "Chamur Khan, Dhaka"
+		},
+		{
+			"id": "989",
+			"city": "Chandanaish, Chittagong"
+		},
+		{
+			"id": "1003",
+			"city": "Chandina, Comilla"
+		},
+		{
+			"id": "978",
+			"city": "Chandpur Sadar, Chandpur"
+		},
+		{
+			"id": "131",
+			"city": "Chankarpul, Dhaka"
+		},
+		{
+			"id": "1126",
+			"city": "Chapai Nawabganj Sadar, Chapai Nawabganj"
+		},
+		{
+			"id": "641",
+			"city": "Char Bhadrasan, Faridpur"
+		},
+		{
+			"id": "940",
+			"city": "Charfession, Bhola"
+		},
+		{
+			"id": "868",
+			"city": "Charghat, Rajshahi"
+		},
+		{
+			"id": "1044",
+			"city": "Chatkhil, Noakhali"
+		},
+		{
+			"id": "860",
+			"city": "Chatmohar, Pabna"
+		},
+		{
+			"id": "901",
+			"city": "Chattak, Sunamganj"
+		},
+		{
+			"id": "118",
+			"city": "Chawkbazar (Dhaka), Dhaka"
+		},
+		{
+			"id": "1195",
+			"city": "Cherag Ali, Dhaka"
+		},
+		{
+			"id": "1083",
+			"city": "Chilmary, Kurigram"
+		},
+		{
+			"id": "1066",
+			"city": "Chirirbandar, Dinajpur"
+		},
+		{
+			"id": "756",
+			"city": "Chitalmari, Bagerhat"
+		},
+		{
+			"id": "1133",
+			"city": "Chittagong Road, Narayanganj"
+		},
+		{
+			"id": "1122",
+			"city": "Chittagong Sadar, Chittagong"
+		},
+		{
+			"id": "1280",
+			"city": "Choidana, Dhaka"
+		},
+		{
+			"id": "1004",
+			"city": "Chowddagram, Comilla"
+		},
+		{
+			"id": "770",
+			"city": "Chowgacha, Jessore"
+		},
+		{
+			"id": "877",
+			"city": "Chowhali, Sirajganj"
+		},
+		{
+			"id": "765",
+			"city": "Chuadanga Sadar, Chuadanga"
+		},
+		{
+			"id": "888",
+			"city": "Chunarughat, Habiganj"
+		},
+		{
+			"id": "1270",
+			"city": "College Gate, Dhaka"
+		},
+		{
+			"id": "1005",
+			"city": "Comilla Sadar, Comilla"
+		},
+		{
+			"id": "1015",
+			"city": "Comilla Sadar South, Comilla"
+		},
+		{
+			"id": "1045",
+			"city": "Companiganj, Noakhali"
+		},
+		{
+			"id": "914",
+			"city": "Companyganj, Sylhet"
+		},
+		{
+			"id": "1226",
+			"city": "Confidence Tower, Jhilpar, Dhaka"
+		},
+		{
+			"id": "1017",
+			"city": "Cox's Bazar Sadar, Cox's Bazar"
+		},
+		{
+			"id": "448",
+			"city": "CWH, Dhaka"
+		},
+		{
+			"id": "783",
+			"city": "Dacope, Khulna"
+		},
+		{
+			"id": "1025",
+			"city": "Daganbhuiyan, Feni"
+		},
+		{
+			"id": "137",
+			"city": "Dainik Bangla Mor, Dhaka"
+		},
+		{
+			"id": "48",
+			"city": "Dakshinkhan, Dhaka"
+		},
+		{
+			"id": "1293",
+			"city": "Dakshinkhan Bazar, Dhaka"
+		},
+		{
+			"id": "733",
+			"city": "Damudiya, Shariatpur"
+		},
+		{
+			"id": "766",
+			"city": "Damurhuda, Chuadanga"
+		},
+		{
+			"id": "8",
+			"city": "Darussalam, Dhaka"
+		},
+		{
+			"id": "950",
+			"city": "Dasmina, Patuakhali"
+		},
+		{
+			"id": "1193",
+			"city": "Dattapara, Dhaka"
+		},
+		{
+			"id": "1277",
+			"city": "Dattapara Road, Dhaka"
+		},
+		{
+			"id": "1006",
+			"city": "Daudkandi, Comilla"
+		},
+		{
+			"id": "941",
+			"city": "Daulatkhan, Bhola"
+		},
+		{
+			"id": "796",
+			"city": "Daulatpur(Kushtia), Kushtia"
+		},
+		{
+			"id": "681",
+			"city": "Daulatpur(Manikganj), Manikganj"
+		},
+		{
+			"id": "812",
+			"city": "Debhata, Satkhira"
+		},
+		{
+			"id": "1007",
+			"city": "Debiduar, Comilla"
+		},
+		{
+			"id": "1104",
+			"city": "Debiganj, Panchagarh"
+		},
+		{
+			"id": "1281",
+			"city": "Deger Chala, Dhaka"
+		},
+		{
+			"id": "745",
+			"city": "Delduar, Tangail"
+		},
+		{
+			"id": "278",
+			"city": "Demra, Dhaka"
+		},
+		{
+			"id": "902",
+			"city": "Derai, Sunamganj"
+		},
+		{
+			"id": "658",
+			"city": "Dewanganj, Jamalpur"
+		},
+		{
+			"id": "37",
+			"city": "Dewanpara, Dhaka"
+		},
+		{
+			"id": "21",
+			"city": "Dhaka Cantonment, Dhaka"
+		},
+		{
+			"id": "146",
+			"city": "Dhaka Medical, Dhaka"
+		},
+		{
+			"id": "1212",
+			"city": "DHAKA TENARI MORE, Dhaka"
+		},
+		{
+			"id": "1139",
+			"city": "Dhaka uddan, Dhaka"
+		},
+		{
+			"id": "418",
+			"city": "Dhaka Uddyan, Dhaka"
+		},
+		{
+			"id": "145",
+			"city": "Dhaka University, Dhaka"
+		},
+		{
+			"id": "133",
+			"city": "Dhakeshwari, Dhaka"
+		},
+		{
+			"id": "842",
+			"city": "Dhamoirhat, Naogaon"
+		},
+		{
+			"id": "365",
+			"city": "Dhamrai, Dhaka"
+		},
+		{
+			"id": "754",
+			"city": "Dhanbari, Tangail"
+		},
+		{
+			"id": "2",
+			"city": "Dhanmondi, Dhaka"
+		},
+		{
+			"id": "903",
+			"city": "Dharmapasha, Sunamganj"
+		},
+		{
+			"id": "1276",
+			"city": "Dhirasrom, Dhaka"
+		},
+		{
+			"id": "1252",
+			"city": "Dholaikhal, Dhaka"
+		},
+		{
+			"id": "296",
+			"city": "Dholaipar, Dhaka"
+		},
+		{
+			"id": "1255",
+			"city": "Dholpur, Dhaka"
+		},
+		{
+			"id": "1161",
+			"city": "Dhour, Dhaka"
+		},
+		{
+			"id": "695",
+			"city": "Dhubaura, Mymensingh"
+		},
+		{
+			"id": "821",
+			"city": "Dhubchanchia, Bogra"
+		},
+		{
+			"id": "820",
+			"city": "Dhunot, Bogra"
+		},
+		{
+			"id": "1320",
+			"city": "Diabari, Dhaka"
+		},
+		{
+			"id": "784",
+			"city": "Dighalia, Khulna"
+		},
+		{
+			"id": "1030",
+			"city": "Dighinala, Khagrachari"
+		},
+		{
+			"id": "1096",
+			"city": "Dimla, Nilphamari"
+		},
+		{
+			"id": "1067",
+			"city": "Dinajpur Sadar, Dinajpur"
+		},
+		{
+			"id": "359",
+			"city": "Dohar, Dhaka"
+		},
+		{
+			"id": "324",
+			"city": "Dokshingaon, Dhaka"
+		},
+		{
+			"id": "263",
+			"city": "Dolaikhal, Dhaka"
+		},
+		{
+			"id": "1097",
+			"city": "Domar, Nilphamari"
+		},
+		{
+			"id": "414",
+			"city": "Donia, Dhaka"
+		},
+		{
+			"id": "793",
+			"city": "Doulatpur, Khulna"
+		},
+		{
+			"id": "904",
+			"city": "Dowarabazar, Sunamganj"
+		},
+		{
+			"id": "1253",
+			"city": "Doyagonj, Dhaka"
+		},
+		{
+			"id": "29",
+			"city": "Duaripara, Dhaka"
+		},
+		{
+			"id": "951",
+			"city": "Dumki, Patuakhali"
+		},
+		{
+			"id": "785",
+			"city": "Dumuria, Khulna"
+		},
+		{
+			"id": "719",
+			"city": "Durgapur(Netrokona), Netrokona"
+		},
+		{
+			"id": "869",
+			"city": "Durgapur(Rajshahi), Rajshahi"
+		},
+		{
+			"id": "1210",
+			"city": "Eastern Housing, Dhaka"
+		},
+		{
+			"id": "329",
+			"city": "ECB Chattar, Dhaka"
+		},
+		{
+			"id": "185",
+			"city": "Elephant Road, Dhaka"
+		},
+		{
+			"id": "1197",
+			"city": "Ershadnagar, Dhaka"
+		},
+		{
+			"id": "157",
+			"city": "Eskaton, Dhaka"
+		},
+		{
+			"id": "156",
+			"city": "Eskaton Garden Road, Dhaka"
+		},
+		{
+			"id": "139",
+			"city": "Fakirapul, Dhaka"
+		},
+		{
+			"id": "757",
+			"city": "Fakirhat, Bagerhat"
+		},
+		{
+			"id": "1254",
+			"city": "Farashgong, Dhaka"
+		},
+		{
+			"id": "412",
+			"city": "Faridabad, Dhaka"
+		},
+		{
+			"id": "979",
+			"city": "Faridganj, Chandpur"
+		},
+		{
+			"id": "861",
+			"city": "Faridpur ( Pabna ), Pabna"
+		},
+		{
+			"id": "642",
+			"city": "Faridpur Sadar, Faridpur"
+		},
+		{
+			"id": "96",
+			"city": "Farmgate, Dhaka"
+		},
+		{
+			"id": "990",
+			"city": "Fatikchari, Chittagong"
+		},
+		{
+			"id": "1124",
+			"city": "Fatullah, Narayanganj"
+		},
+		{
+			"id": "49",
+			"city": "Fayedabad, Dhaka"
+		},
+		{
+			"id": "915",
+			"city": "Fenchuganj, Sylhet"
+		},
+		{
+			"id": "1026",
+			"city": "Feni Sadar, Feni"
+		},
+		{
+			"id": "1227",
+			"city": "Fuji Trade Center, Dhaka"
+		},
+		{
+			"id": "1084",
+			"city": "Fulbari (Kurigram), Kurigram"
+		},
+		{
+			"id": "696",
+			"city": "Fulbaria (Mymensingh, Mymensingh"
+		},
+		{
+			"id": "1075",
+			"city": "Fulchari, Gaibandha"
+		},
+		{
+			"id": "1028",
+			"city": "Fulgazi, Feni"
+		},
+		{
+			"id": "697",
+			"city": "Fulpur, Mymensingh"
+		},
+		{
+			"id": "822",
+			"city": "Gabtali, Bogra"
+		},
+		{
+			"id": "9",
+			"city": "Gabtoli, Dhaka"
+		},
+		{
+			"id": "1189",
+			"city": "Gacha, Dhaka"
+		},
+		{
+			"id": "1076",
+			"city": "Gaibandha Sadar, Gaibandha"
+		},
+		{
+			"id": "952",
+			"city": "Galachipa, Patuakhali"
+		},
+		{
+			"id": "409",
+			"city": "Gandaria, Dhaka"
+		},
+		{
+			"id": "1108",
+			"city": "Gangachara, Rangpur"
+		},
+		{
+			"id": "805",
+			"city": "Gangni, Meherpur"
+		},
+		{
+			"id": "1306",
+			"city": "Gawair, Dhaka"
+		},
+		{
+			"id": "688",
+			"city": "Gazaria, Munshiganj"
+		},
+		{
+			"id": "1282",
+			"city": "Gazcha, Dhaka"
+		},
+		{
+			"id": "647",
+			"city": "Gazipur Sadar, Gazipur"
+		},
+		{
+			"id": "1272",
+			"city": "Gazipura, Dhaka"
+		},
+		{
+			"id": "746",
+			"city": "Ghatail, Tangail"
+		},
+		{
+			"id": "682",
+			"city": "Ghior, Manikganj"
+		},
+		{
+			"id": "1069",
+			"city": "Ghoraghat, Dinajpur"
+		},
+		{
+			"id": "1148",
+			"city": "Goaltek, Dhaka"
+		},
+		{
+			"id": "728",
+			"city": "Goalunda, Rajbari"
+		},
+		{
+			"id": "1077",
+			"city": "Gobindaganj ( Gaibandha ), Gaibandha"
+		},
+		{
+			"id": "870",
+			"city": "Godagari, Rajshahi"
+		},
+		{
+			"id": "698",
+			"city": "Goffargaon, Mymensingh"
+		},
+		{
+			"id": "178",
+			"city": "Golapbag, Dhaka"
+		},
+		{
+			"id": "917",
+			"city": "Golapganj, Sylhet"
+		},
+		{
+			"id": "1180",
+			"city": "Goljarbag, Dhaka"
+		},
+		{
+			"id": "43",
+			"city": "Goltek, Dhaka"
+		},
+		{
+			"id": "831",
+			"city": "Gomastapur, Chapai Nawabganj"
+		},
+		{
+			"id": "652",
+			"city": "Gopalganj Sadar, Gopalganj"
+		},
+		{
+			"id": "747",
+			"city": "Gopalpur, Tangail"
+		},
+		{
+			"id": "1269",
+			"city": "Gopalpur, Dhaka"
+		},
+		{
+			"id": "403",
+			"city": "Gopibag, Dhaka"
+		},
+		{
+			"id": "168",
+			"city": "Goran, Dhaka"
+		},
+		{
+			"id": "734",
+			"city": "Gosairhat, Shariatpur"
+		},
+		{
+			"id": "699",
+			"city": "Gouripur, Mymensingh"
+		},
+		{
+			"id": "933",
+			"city": "Gournadi, Barisal"
+		},
+		{
+			"id": "916",
+			"city": "Gowainghat, Sylhet"
+		},
+		{
+			"id": "104",
+			"city": "Green Road, Dhaka"
+		},
+		{
+			"id": "14",
+			"city": "Gudaraghat, Dhaka"
+		},
+		{
+			"id": "1332",
+			"city": "Gudaraghat-Mirpur, Dhaka"
+		},
+		{
+			"id": "1324",
+			"city": "Gulbagh, Dhaka"
+		},
+		{
+			"id": "129",
+			"city": "Gulistan, Dhaka"
+		},
+		{
+			"id": "3",
+			"city": "Gulshan, Dhaka"
+		},
+		{
+			"id": "853",
+			"city": "Gurudaspur, Natore"
+		},
+		{
+			"id": "1298",
+			"city": "Habib Market, Dhaka"
+		},
+		{
+			"id": "1321",
+			"city": "Habib Market-Uttara, Dhaka"
+		},
+		{
+			"id": "889",
+			"city": "Habiganj Sadar, Habiganj"
+		},
+		{
+			"id": "980",
+			"city": "Haimchar, Chandpur"
+		},
+		{
+			"id": "981",
+			"city": "Hajiganj, Chandpur"
+		},
+		{
+			"id": "69",
+			"city": "Hajipara, Dhaka"
+		},
+		{
+			"id": "1294",
+			"city": "Hajipara-Dakshinkhan, Dhaka"
+		},
+		{
+			"id": "1070",
+			"city": "Hakimpur, Dinajpur"
+		},
+		{
+			"id": "700",
+			"city": "Haluaghat, Mymensingh"
+		},
+		{
+			"id": "1283",
+			"city": "Hariken, Dhaka"
+		},
+		{
+			"id": "777",
+			"city": "Harinakunda, Jhenaidah"
+		},
+		{
+			"id": "1116",
+			"city": "Haripur, Thakurgaon"
+		},
+		{
+			"id": "683",
+			"city": "Harirampur, Manikganj"
+		},
+		{
+			"id": "1260",
+			"city": "Hasnabad, Dhaka"
+		},
+		{
+			"id": "1137",
+			"city": "Haterrjheel, Dhaka"
+		},
+		{
+			"id": "991",
+			"city": "Hathazari, Chittagong"
+		},
+		{
+			"id": "1092",
+			"city": "Hatibandha, Lalmonirhat"
+		},
+		{
+			"id": "181",
+			"city": "Hatirjheel, Dhaka"
+		},
+		{
+			"id": "164",
+			"city": "Hatirpool, Dhaka"
+		},
+		{
+			"id": "1046",
+			"city": "Hatiya, Noakhali"
+		},
+		{
+			"id": "111",
+			"city": "Hazaribag, Dhaka"
+		},
+		{
+			"id": "1310",
+			"city": "Helal Market, Dhaka"
+		},
+		{
+			"id": "144",
+			"city": "High Court, Dhaka"
+		},
+		{
+			"id": "934",
+			"city": "Hijla, Barisal"
+		},
+		{
+			"id": "1008",
+			"city": "Homna, Comilla"
+		},
+		{
+			"id": "667",
+			"city": "Hosainpur, Kishoreganj"
+		},
+		{
+			"id": "1273",
+			"city": "Hossain Market, Dhaka"
+		},
+		{
+			"id": "20",
+			"city": "Ibrahimpur, Dhaka"
+		},
+		{
+			"id": "1239",
+			"city": "ICDDRB, Dhaka"
+		},
+		{
+			"id": "271",
+			"city": "Imamgonj, Dhaka"
+		},
+		{
+			"id": "97",
+			"city": "Indira Road, Dhaka"
+		},
+		{
+			"id": "349",
+			"city": "Islambag, Dhaka"
+		},
+		{
+			"id": "270",
+			"city": "Islampur(Dhaka), Dhaka"
+		},
+		{
+			"id": "659",
+			"city": "Islampur(Jamalpur), Jamalpur"
+		},
+		{
+			"id": "1313",
+			"city": "Ismailkholla, Dhaka"
+		},
+		{
+			"id": "862",
+			"city": "Iswardi, Pabna"
+		},
+		{
+			"id": "701",
+			"city": "Iswarganj, Mymensingh"
+		},
+		{
+			"id": "668",
+			"city": "Itna, Kishoreganj"
+		},
+		{
+			"id": "905",
+			"city": "Jagannathpur, Sunamganj"
+		},
+		{
+			"id": "918",
+			"city": "Jaintapur, Sylhet"
+		},
+		{
+			"id": "1098",
+			"city": "Jaldhaka, Nilphamari"
+		},
+		{
+			"id": "906",
+			"city": "Jamalganj, Sunamganj"
+		},
+		{
+			"id": "660",
+			"city": "Jamalpur Sadar, Jamalpur"
+		},
+		{
+			"id": "179",
+			"city": "Jatrabari, Dhaka"
+		},
+		{
+			"id": "771",
+			"city": "Jessore Sadar, Jessore"
+		},
+		{
+			"id": "945",
+			"city": "Jhalokathi Sadar, Jhalokathi"
+		},
+		{
+			"id": "778",
+			"city": "Jhenaidah Sadar, Jhenaidah"
+		},
+		{
+			"id": "738",
+			"city": "Jhenaigati, Sherpur"
+		},
+		{
+			"id": "1214",
+			"city": "Jhigatola, Dhaka"
+		},
+		{
+			"id": "772",
+			"city": "Jhikargacha, Jessore"
+		},
+		{
+			"id": "767",
+			"city": "Jibannagar, Chuadanga"
+		},
+		{
+			"id": "325",
+			"city": "Joar Shahara, Dhaka"
+		},
+		{
+			"id": "1220",
+			"city": "Jogonnathpur, Dhaka"
+		},
+		{
+			"id": "1297",
+			"city": "Johura Market, Dhaka"
+		},
+		{
+			"id": "1275",
+			"city": "Joydebpur, Dhaka"
+		},
+		{
+			"id": "1296",
+			"city": "Joynal Market, Dhaka"
+		},
+		{
+			"id": "836",
+			"city": "Joypurhat Sadar, Joypurhat"
+		},
+		{
+			"id": "1055",
+			"city": "Jurachari, Rangamati"
+		},
+		{
+			"id": "408",
+			"city": "Jurain, Dhaka"
+		},
+		{
+			"id": "899",
+			"city": "Juri, Moulvibazar"
+		},
+		{
+			"id": "1051",
+			"city": "Kabir Hat, Noakhali"
+		},
+		{
+			"id": "1309",
+			"city": "Kachkura, Dhaka"
+		},
+		{
+			"id": "758",
+			"city": "Kachua(Bagerhat), Bagerhat"
+		},
+		{
+			"id": "982",
+			"city": "Kachua(Chandpur), Chandpur"
+		},
+		{
+			"id": "1187",
+			"city": "Kaderabad Housing, Dhaka"
+		},
+		{
+			"id": "23",
+			"city": "Kafrul, Dhaka"
+		},
+		{
+			"id": "823",
+			"city": "Kahaloo, Bogra"
+		},
+		{
+			"id": "1071",
+			"city": "Kaharole, Dinajpur"
+		},
+		{
+			"id": "140",
+			"city": "Kakrail, Dhaka"
+		},
+		{
+			"id": "103",
+			"city": "Kalabagan, Dhaka"
+		},
+		{
+			"id": "1219",
+			"city": "Kalachandpur, Dhaka"
+		},
+		{
+			"id": "837",
+			"city": "Kalai, Joypurhat"
+		},
+		{
+			"id": "953",
+			"city": "Kalapara, Patuakhali"
+		},
+		{
+			"id": "1125",
+			"city": "Kalatia, Dhaka"
+		},
+		{
+			"id": "808",
+			"city": "Kalia, Narail"
+		},
+		{
+			"id": "648",
+			"city": "Kaliakoir, Gazipur"
+		},
+		{
+			"id": "1182",
+			"city": "Kaliganj, Dhaka"
+		},
+		{
+			"id": "649",
+			"city": "Kaliganj(Gazipur), Gazipur"
+		},
+		{
+			"id": "779",
+			"city": "Kaliganj(Jhenaidah), Jhenaidah"
+		},
+		{
+			"id": "1093",
+			"city": "Kaliganj(Lalmonirhat), Lalmonirhat"
+		},
+		{
+			"id": "813",
+			"city": "Kaliganj(Satkhira), Satkhira"
+		},
+		{
+			"id": "748",
+			"city": "Kalihati, Tangail"
+		},
+		{
+			"id": "677",
+			"city": "Kalkini, Madaripur"
+		},
+		{
+			"id": "1165",
+			"city": "Kallanpur, Dhaka"
+		},
+		{
+			"id": "5",
+			"city": "Kallyanpur, Dhaka"
+		},
+		{
+			"id": "720",
+			"city": "Kalmakanda, Netrokona"
+		},
+		{
+			"id": "277",
+			"city": "Kalshi, Dhaka"
+		},
+		{
+			"id": "407",
+			"city": "Kaltabazar, Dhaka"
+		},
+		{
+			"id": "731",
+			"city": "Kalukhali, Rajbari"
+		},
+		{
+			"id": "134",
+			"city": "Kamalapur, Dhaka"
+		},
+		{
+			"id": "894",
+			"city": "Kamalganj, Moulvibazar"
+		},
+		{
+			"id": "1042",
+			"city": "Kamalnagar, Laksmipur"
+		},
+		{
+			"id": "1192",
+			"city": "Kamarjuri, Dhaka"
+		},
+		{
+			"id": "878",
+			"city": "Kamarkhanda, Sirajganj"
+		},
+		{
+			"id": "352",
+			"city": "Kamarpara, Dhaka"
+		},
+		{
+			"id": "286",
+			"city": "Kamrangichar, Dhaka"
+		},
+		{
+			"id": "920",
+			"city": "Kanaighat, Sylhet"
+		},
+		{
+			"id": "650",
+			"city": "Kapasia, Gazipur"
+		},
+		{
+			"id": "1056",
+			"city": "Kaptai, Rangamati"
+		},
+		{
+			"id": "128",
+			"city": "Kaptan Bazar, Dhaka"
+		},
+		{
+			"id": "669",
+			"city": "Karimganj, Kishoreganj"
+		},
+		{
+			"id": "1138",
+			"city": "Karnaphuli, Chittagong"
+		},
+		{
+			"id": "974",
+			"city": "Kashba, Brahmanbaria"
+		},
+		{
+			"id": "653",
+			"city": "Kasiani, Gopalganj"
+		},
+		{
+			"id": "163",
+			"city": "Katabon, Dhaka"
+		},
+		{
+			"id": "186",
+			"city": "Kathalbagan, Dhaka"
+		},
+		{
+			"id": "946",
+			"city": "Kathalia, Jhalokathi"
+		},
+		{
+			"id": "356",
+			"city": "Katherpol, Dhaka"
+		},
+		{
+			"id": "1179",
+			"city": "Kathuria, Dhaka"
+		},
+		{
+			"id": "670",
+			"city": "Katiadi, Kishoreganj"
+		},
+		{
+			"id": "957",
+			"city": "Kaukhali (Perojpur), Perojpur"
+		},
+		{
+			"id": "1109",
+			"city": "Kaunia, Rangpur"
+		},
+		{
+			"id": "1057",
+			"city": "Kawkhali (Rangamati), Rangamati"
+		},
+		{
+			"id": "70",
+			"city": "Kawla, Dhaka"
+		},
+		{
+			"id": "149",
+			"city": "Kawran Bazar, Dhaka"
+		},
+		{
+			"id": "148",
+			"city": "Kazi Nazrul Islam Avenue, Dhaka"
+		},
+		{
+			"id": "275",
+			"city": "Kazipara, Dhaka"
+		},
+		{
+			"id": "879",
+			"city": "Kazipur, Sirajganj"
+		},
+		{
+			"id": "721",
+			"city": "Kendua, Netrokona"
+		},
+		{
+			"id": "305",
+			"city": "Keranigonj, Dhaka"
+		},
+		{
+			"id": "773",
+			"city": "Keshabpur, Jessore"
+		},
+		{
+			"id": "1031",
+			"city": "Khagrachari Sadar, Khagrachari"
+		},
+		{
+			"id": "1263",
+			"city": "Khairtail, Dhaka"
+		},
+		{
+			"id": "722",
+			"city": "Khaliajuri, Netrokona"
+		},
+		{
+			"id": "790",
+			"city": "Khalispur, Khulna"
+		},
+		{
+			"id": "792",
+			"city": "Khan jahan ali , Khulna"
+		},
+		{
+			"id": "1072",
+			"city": "Khanshama, Dinajpur"
+		},
+		{
+			"id": "1284",
+			"city": "Khartail, Dhaka"
+		},
+		{
+			"id": "838",
+			"city": "Khetlal, Joypurhat"
+		},
+		{
+			"id": "1228",
+			"city": "Khil Barirtek, Dhaka"
+		},
+		{
+			"id": "1206",
+			"city": "Khilbar Tek, Dhaka"
+		},
+		{
+			"id": "174",
+			"city": "Khilbari Tek, Dhaka"
+		},
+		{
+			"id": "166",
+			"city": "Khilgaon, Dhaka"
+		},
+		{
+			"id": "66",
+			"city": "Khilkhet, Dhaka"
+		},
+		{
+			"id": "797",
+			"city": "Khoksha, Kushtia"
+		},
+		{
+			"id": "1120",
+			"city": "Khulna Sadar, Khulna"
+		},
+		{
+			"id": "1099",
+			"city": "Kishoreganj ( Nilphamari), Nilphamari"
+		},
+		{
+			"id": "671",
+			"city": "Kishoreganj Sadar, Kishoreganj"
+		},
+		{
+			"id": "13",
+			"city": "Kochukhet, Dhaka"
+		},
+		{
+			"id": "1256",
+			"city": "Kodomtoli, Dhaka"
+		},
+		{
+			"id": "787",
+			"city": "Koira, Khulna"
+		},
+		{
+			"id": "814",
+			"city": "Kolaroa, Satkhira"
+		},
+		{
+			"id": "417",
+			"city": "Konapara, Dhaka"
+		},
+		{
+			"id": "1229",
+			"city": "Korail, Dhaka"
+		},
+		{
+			"id": "1307",
+			"city": "Kosaibari, Dhaka"
+		},
+		{
+			"id": "1303",
+			"city": "Kot Bari, Dhaka"
+		},
+		{
+			"id": "654",
+			"city": "Kotalipara, Gopalganj"
+		},
+		{
+			"id": "776",
+			"city": "Kotchandpur, Jhenaidah"
+		},
+		{
+			"id": "1257",
+			"city": "Kotwali, Dhaka"
+		},
+		{
+			"id": "895",
+			"city": "Kulaura, Moulvibazar"
+		},
+		{
+			"id": "672",
+			"city": "Kuliarchar, Kishoreganj"
+		},
+		{
+			"id": "798",
+			"city": "Kumarkhali, Kushtia"
+		},
+		{
+			"id": "1188",
+			"city": "Kunia, Dhaka"
+		},
+		{
+			"id": "1185",
+			"city": "Kunipara, Dhaka"
+		},
+		{
+			"id": "1221",
+			"city": "Kuratuli, Dhaka"
+		},
+		{
+			"id": "1085",
+			"city": "Kurigram Sadar, Kurigram"
+		},
+		{
+			"id": "51",
+			"city": "Kuril, Dhaka"
+		},
+		{
+			"id": "44",
+			"city": "Kurmitola, Dhaka"
+		},
+		{
+			"id": "799",
+			"city": "Kushtia Sadar, Kushtia"
+		},
+		{
+			"id": "1018",
+			"city": "Kutubdia, Cox's Bazar"
+		},
+		{
+			"id": "890",
+			"city": "Lakhai, Habiganj"
+		},
+		{
+			"id": "1009",
+			"city": "Laksam, Comilla"
+		},
+		{
+			"id": "1032",
+			"city": "Laksmichari, Khagrachari"
+		},
+		{
+			"id": "1038",
+			"city": "Laksmipur Sadar, Laksmipur"
+		},
+		{
+			"id": "117",
+			"city": "Lalbagh, Dhaka"
+		},
+		{
+			"id": "1167",
+			"city": "Lalkuthi, Dhaka"
+		},
+		{
+			"id": "11",
+			"city": "Lalmatia, Dhaka"
+		},
+		{
+			"id": "942",
+			"city": "Lalmohan, Bhola"
+		},
+		{
+			"id": "1094",
+			"city": "Lalmonirhat Sadar, Lalmonirhat"
+		},
+		{
+			"id": "854",
+			"city": "Lalpur, Natore"
+		},
+		{
+			"id": "965",
+			"city": "Lama, Bandarban"
+		},
+		{
+			"id": "1058",
+			"city": "Langadu, Rangamati"
+		},
+		{
+			"id": "689",
+			"city": "Lauhajang, Munshiganj"
+		},
+		{
+			"id": "992",
+			"city": "Lohagara(Chittagong), Chittagong"
+		},
+		{
+			"id": "809",
+			"city": "Lohagara(Narail), Narail"
+		},
+		{
+			"id": "121",
+			"city": "Luxmi Bazar, Dhaka"
+		},
+		{
+			"id": "27",
+			"city": "M.E.S, Dhaka"
+		},
+		{
+			"id": "723",
+			"city": "Madan, Netrokona"
+		},
+		{
+			"id": "661",
+			"city": "Madarganj, Jamalpur"
+		},
+		{
+			"id": "678",
+			"city": "Madaripur Sadar, Madaripur"
+		},
+		{
+			"id": "169",
+			"city": "Madartek, Dhaka"
+		},
+		{
+			"id": "891",
+			"city": "Madhabpur, Habiganj"
+		},
+		{
+			"id": "643",
+			"city": "Madhukhali, Faridpur"
+		},
+		{
+			"id": "36",
+			"city": "Madina nagar, Dhaka"
+		},
+		{
+			"id": "801",
+			"city": "Magura Sadar, Magura"
+		},
+		{
+			"id": "844",
+			"city": "Mahadebpur, Naogaon"
+		},
+		{
+			"id": "1230",
+			"city": "Mahanogor, Dhaka"
+		},
+		{
+			"id": "1248",
+			"city": "Mahut Tuli, Dhaka"
+		},
+		{
+			"id": "1285",
+			"city": "Majukhan, Dhaka"
+		},
+		{
+			"id": "655",
+			"city": "Maksudpur, Gopalganj"
+		},
+		{
+			"id": "160",
+			"city": "Malibag, Dhaka"
+		},
+		{
+			"id": "187",
+			"city": "Malibagh Taltola, Dhaka"
+		},
+		{
+			"id": "1128",
+			"city": "Manda(Dhaka), Dhaka"
+		},
+		{
+			"id": "843",
+			"city": "Manda(Naogaon), Naogaon"
+		},
+		{
+			"id": "105",
+			"city": "Manik Mia Avenue, Dhaka"
+		},
+		{
+			"id": "170",
+			"city": "Manik Nagar, Dhaka"
+		},
+		{
+			"id": "1034",
+			"city": "Manikchari, Khagrachari"
+		},
+		{
+			"id": "25",
+			"city": "Manikdi, Dhaka"
+		},
+		{
+			"id": "684",
+			"city": "Manikganj Sadar, Manikganj"
+		},
+		{
+			"id": "774",
+			"city": "Manirampur, Jessore"
+		},
+		{
+			"id": "943",
+			"city": "Manpura, Bhola"
+		},
+		{
+			"id": "1314",
+			"city": "Masterpara, Dhaka"
+		},
+		{
+			"id": "40",
+			"city": "Mastertek, Dhaka"
+		},
+		{
+			"id": "26",
+			"city": "Matikata, Dhaka"
+		},
+		{
+			"id": "1035",
+			"city": "Matiranga, Khagrachari"
+		},
+		{
+			"id": "984",
+			"city": "Matlab (North)(Chengarchar), Chandpur"
+		},
+		{
+			"id": "983",
+			"city": "Matlab (South), Chandpur"
+		},
+		{
+			"id": "413",
+			"city": "Matuail, Dhaka"
+		},
+		{
+			"id": "32",
+			"city": "Mazar Road, Dhaka"
+		},
+		{
+			"id": "1010",
+			"city": "Meghna, Comilla"
+		},
+		{
+			"id": "935",
+			"city": "Mehendiganj, Barisal"
+		},
+		{
+			"id": "806",
+			"city": "Meherpur Sadar, Meherpur"
+		},
+		{
+			"id": "662",
+			"city": "Melandah, Jamalpur"
+		},
+		{
+			"id": "173",
+			"city": "Meradia, Dhaka"
+		},
+		{
+			"id": "1325",
+			"city": "Meradiya Bazar, Dhaka"
+		},
+		{
+			"id": "83",
+			"city": "Merul Badda, Dhaka"
+		},
+		{
+			"id": "1174",
+			"city": "MES Colony, Dhaka"
+		},
+		{
+			"id": "81",
+			"city": "Middle Badda, Dhaka"
+		},
+		{
+			"id": "167",
+			"city": "Middle Bashabo, Dhaka"
+		},
+		{
+			"id": "1286",
+			"city": "Milgate, Dhaka"
+		},
+		{
+			"id": "154",
+			"city": "Minto Road, Dhaka"
+		},
+		{
+			"id": "1326",
+			"city": "Mirbagh, Dhaka"
+		},
+		{
+			"id": "1246",
+			"city": "Mirhazirbagh, Dhaka"
+		},
+		{
+			"id": "954",
+			"city": "Mirjaganj, Patuakhali"
+		},
+		{
+			"id": "1168",
+			"city": "Mirpur 1, Dhaka"
+		},
+		{
+			"id": "1331",
+			"city": "Mirpur 10, Dhaka"
+		},
+		{
+			"id": "22",
+			"city": "Mirpur Cantonment, Dhaka"
+		},
+		{
+			"id": "31",
+			"city": "Mirpur Diabari, Dhaka"
+		},
+		{
+			"id": "12",
+			"city": "Mirpur DOHS, Dhaka"
+		},
+		{
+			"id": "449",
+			"city": "Mirpur Taltola, Dhaka"
+		},
+		{
+			"id": "315",
+			"city": "Mirpur(Dhaka), Dhaka"
+		},
+		{
+			"id": "800",
+			"city": "Mirpur(Kushtia), Kushtia"
+		},
+		{
+			"id": "1336",
+			"city": "Mirpur:13,14,15, Dhaka"
+		},
+		{
+			"id": "993",
+			"city": "Mirsarai, Chittagong"
+		},
+		{
+			"id": "749",
+			"city": "Mirzapur, Tangail"
+		},
+		{
+			"id": "354",
+			"city": "Mitford, Dhaka"
+		},
+		{
+			"id": "673",
+			"city": "Mithamain, Kishoreganj"
+		},
+		{
+			"id": "1110",
+			"city": "Mithapukur, Rangpur"
+		},
+		{
+			"id": "1327",
+			"city": "Modhubagh, Dhaka"
+		},
+		{
+			"id": "750",
+			"city": "Modhupur, Tangail"
+		},
+		{
+			"id": "158",
+			"city": "Moghbazar, Dhaka"
+		},
+		{
+			"id": "87",
+			"city": "Mohakhali, Dhaka"
+		},
+		{
+			"id": "88",
+			"city": "Mohakhali DOHS, Dhaka"
+		},
+		{
+			"id": "1033",
+			"city": "Mohalchari, Khagrachari"
+		},
+		{
+			"id": "1142",
+			"city": "Mohammadia Housing, Dhaka"
+		},
+		{
+			"id": "1",
+			"city": "Mohammadpur(Dhaka), Dhaka"
+		},
+		{
+			"id": "802",
+			"city": "Mohammadpur(Magura), Magura"
+		},
+		{
+			"id": "724",
+			"city": "Mohanganj, Netrokona"
+		},
+		{
+			"id": "871",
+			"city": "Mohanpur, Rajshahi"
+		},
+		{
+			"id": "1019",
+			"city": "Moheshkhali, Cox's Bazar"
+		},
+		{
+			"id": "780",
+			"city": "Moheshpur, Jhenaidah"
+		},
+		{
+			"id": "1301",
+			"city": "Moinartek, Dhaka"
+		},
+		{
+			"id": "1150",
+			"city": "Mollapara, Dhaka"
+		},
+		{
+			"id": "759",
+			"city": "Mollarhat, Bagerhat"
+		},
+		{
+			"id": "1305",
+			"city": "Mollartek, Dhaka"
+		},
+		{
+			"id": "1341",
+			"city": "Mondir-Mirpur, Dhaka"
+		},
+		{
+			"id": "760",
+			"city": "Mongla, Bagerhat"
+		},
+		{
+			"id": "18",
+			"city": "Monipur, Dhaka"
+		},
+		{
+			"id": "306",
+			"city": "Monipuripara, Dhaka"
+		},
+		{
+			"id": "712",
+			"city": "Monohardi, Norshingdi"
+		},
+		{
+			"id": "1014",
+			"city": "Monoharganj, Comilla"
+		},
+		{
+			"id": "761",
+			"city": "Morelganj, Bagerhat"
+		},
+		{
+			"id": "1265",
+			"city": "Morkun, Dhaka"
+		},
+		{
+			"id": "958",
+			"city": "Mothbaria, Perojpur"
+		},
+		{
+			"id": "126",
+			"city": "Motijheel, Dhaka"
+		},
+		{
+			"id": "159",
+			"city": "Mouchak, Dhaka"
+		},
+		{
+			"id": "896",
+			"city": "Moulvibazar Sadar, Moulvibazar"
+		},
+		{
+			"id": "177",
+			"city": "Mughdapara, Dhaka"
+		},
+		{
+			"id": "807",
+			"city": "Mujibnagar, Meherpur"
+		},
+		{
+			"id": "703",
+			"city": "Muktagacha, Mymensingh"
+		},
+		{
+			"id": "936",
+			"city": "Muladi, Barisal"
+		},
+		{
+			"id": "1315",
+			"city": "Munda, Dhaka"
+		},
+		{
+			"id": "690",
+			"city": "Munshiganj Sadar, Munshiganj"
+		},
+		{
+			"id": "1011",
+			"city": "Muradnagar, Comilla"
+		},
+		{
+			"id": "702",
+			"city": "Mymensingh Sadar, Mymensingh"
+		},
+		{
+			"id": "892",
+			"city": "Nabiganj, Habiganj"
+		},
+		{
+			"id": "975",
+			"city": "Nabinagar (Brahmanbaria), Brahmanbaria"
+		},
+		{
+			"id": "832",
+			"city": "Nachole, Chapai Nawabganj"
+		},
+		{
+			"id": "74",
+			"city": "Nadda, Dhaka"
+		},
+		{
+			"id": "71",
+			"city": "Naddapara, Dhaka"
+		},
+		{
+			"id": "644",
+			"city": "Nagarkanda, Faridpur"
+		},
+		{
+			"id": "751",
+			"city": "Nagarpur, Tangail"
+		},
+		{
+			"id": "1086",
+			"city": "Nageswari, Kurigram"
+		},
+		{
+			"id": "323",
+			"city": "Nakhalpara, Dhaka"
+		},
+		{
+			"id": "966",
+			"city": "Nakhoyngchari, Bandarban"
+		},
+		{
+			"id": "739",
+			"city": "Nakla, Sherpur"
+		},
+		{
+			"id": "1158",
+			"city": "Nalbhog, Dhaka"
+		},
+		{
+			"id": "947",
+			"city": "Nalchiti, Jhalokathi"
+		},
+		{
+			"id": "740",
+			"city": "Nalitabari, Sherpur"
+		},
+		{
+			"id": "39",
+			"city": "Namapara, Dhaka"
+		},
+		{
+			"id": "1317",
+			"city": "Namapara-Khilkhet, Dhaka"
+		},
+		{
+			"id": "1333",
+			"city": "Namapara-Mirpur, Dhaka"
+		},
+		{
+			"id": "704",
+			"city": "Nandail, Mymensingh"
+		},
+		{
+			"id": "824",
+			"city": "Nandigram, Bogra"
+		},
+		{
+			"id": "396",
+			"city": "Nandipara, Dhaka"
+		},
+		{
+			"id": "1012",
+			"city": "Nangolkot, Comilla"
+		},
+		{
+			"id": "1059",
+			"city": "Naniarchar, Rangamati"
+		},
+		{
+			"id": "845",
+			"city": "Naogaon Sadar, Naogaon"
+		},
+		{
+			"id": "810",
+			"city": "Narail Sadar, Narail"
+		},
+		{
+			"id": "708",
+			"city": "Narayanganj Sadar, Narayanganj"
+		},
+		{
+			"id": "736",
+			"city": "Naria, Shariatpur"
+		},
+		{
+			"id": "136",
+			"city": "Narinda, Dhaka"
+		},
+		{
+			"id": "976",
+			"city": "Nasirnagar, Brahmanbaria"
+		},
+		{
+			"id": "1287",
+			"city": "National University, Dhaka"
+		},
+		{
+			"id": "855",
+			"city": "Natore Sadar, Natore"
+		},
+		{
+			"id": "1073",
+			"city": "Nawabganj, Dinajpur"
+		},
+		{
+			"id": "833",
+			"city": "Nawabganj Sadar, Chapai Nawabganj"
+		},
+		{
+			"id": "446",
+			"city": "Nawabgonj, Dhaka"
+		},
+		{
+			"id": "113",
+			"city": "Nawabgonj Puran Dhaka, Dhaka"
+		},
+		{
+			"id": "127",
+			"city": "Nawabpur, Dhaka"
+		},
+		{
+			"id": "119",
+			"city": "Naya Bazar, Dhaka"
+		},
+		{
+			"id": "141",
+			"city": "Naya Paltan, Dhaka"
+		},
+		{
+			"id": "272",
+			"city": "Nayabazar, Dhaka"
+		},
+		{
+			"id": "1183",
+			"city": "Nazarganj, Dhaka"
+		},
+		{
+			"id": "397",
+			"city": "Nazira Bazar, Dhaka"
+		},
+		{
+			"id": "1181",
+			"city": "Nazirabag, Dhaka"
+		},
+		{
+			"id": "960",
+			"city": "Nazirpur, Perojpur"
+		},
+		{
+			"id": "959",
+			"city": "Nesarabad (Shawrupkathi), Perojpur"
+		},
+		{
+			"id": "725",
+			"city": "Netrokona Sadar, Netrokona"
+		},
+		{
+			"id": "114",
+			"city": "New Market, Dhaka"
+		},
+		{
+			"id": "846",
+			"city": "Niamatpur, Naogaon"
+		},
+		{
+			"id": "84",
+			"city": "Niketon, Dhaka"
+		},
+		{
+			"id": "674",
+			"city": "Nikli, Kishoreganj"
+		},
+		{
+			"id": "67",
+			"city": "Nikunja, Dhaka"
+		},
+		{
+			"id": "116",
+			"city": "Nilkhet, Dhaka"
+		},
+		{
+			"id": "1100",
+			"city": "Nilphamari Sadar, Nilphamari"
+		},
+		{
+			"id": "1231",
+			"city": "Nimtola, Dhaka"
+		},
+		{
+			"id": "1047",
+			"city": "Noakhali Sadar(Sudharam), Noakhali"
+		},
+		{
+			"id": "768",
+			"city": "Noapara, Jessore"
+		},
+		{
+			"id": "1140",
+			"city": "Nobodoy, Dhaka"
+		},
+		{
+			"id": "713",
+			"city": "Norshingdi Sadar, Norshingdi"
+		},
+		{
+			"id": "77",
+			"city": "Notun Bazar, Dhaka"
+		},
+		{
+			"id": "1200",
+			"city": "Nurer Chala, Dhaka"
+		},
+		{
+			"id": "1232",
+			"city": "Nurerchala, Dhaka"
+		},
+		{
+			"id": "1145",
+			"city": "Nurjahan Road, Dhaka"
+		},
+		{
+			"id": "155",
+			"city": "Old Elephant Road, Dhaka"
+		},
+		{
+			"id": "1334",
+			"city": "Oxygen, Dhaka"
+		},
+		{
+			"id": "872",
+			"city": "Paba, Rajshahi"
+		},
+		{
+			"id": "863",
+			"city": "Pabna Sadar, Pabna"
+		},
+		{
+			"id": "788",
+			"city": "Paikgacha, Khulna"
+		},
+		{
+			"id": "1171",
+			"city": "Paikpara, Dhaka"
+		},
+		{
+			"id": "675",
+			"city": "Pakundia, Kishoreganj"
+		},
+		{
+			"id": "1322",
+			"city": "Pakuria-Uttara, Dhaka"
+		},
+		{
+			"id": "714",
+			"city": "Palash, Norshingdi"
+		},
+		{
+			"id": "1078",
+			"city": "Palashbari, Gaibandha"
+		},
+		{
+			"id": "132",
+			"city": "Palashi, Dhaka"
+		},
+		{
+			"id": "1342",
+			"city": "Palasnagor, Dhaka"
+		},
+		{
+			"id": "10",
+			"city": "Pallabi, Dhaka"
+		},
+		{
+			"id": "1105",
+			"city": "Panchagarh Sadar, Panchagarh"
+		},
+		{
+			"id": "1036",
+			"city": "Panchari, Khagrachari"
+		},
+		{
+			"id": "839",
+			"city": "Panchbibi, Joypurhat"
+		},
+		{
+			"id": "729",
+			"city": "Pangsha, Rajbari"
+		},
+		{
+			"id": "102",
+			"city": "Panthopath, Dhaka"
+		},
+		{
+			"id": "1074",
+			"city": "Parbatipur, Dinajpur"
+		},
+		{
+			"id": "183",
+			"city": "Paribag, Dhaka"
+		},
+		{
+			"id": "1027",
+			"city": "Parshuram, Feni"
+		},
+		{
+			"id": "1233",
+			"city": "Pastola Bazar, Dhaka"
+		},
+		{
+			"id": "1095",
+			"city": "Patgram, Lalmonirhat"
+		},
+		{
+			"id": "927",
+			"city": "Patharghata, Barguna"
+		},
+		{
+			"id": "994",
+			"city": "Patiya, Chittagong"
+		},
+		{
+			"id": "847",
+			"city": "Patnitala, Naogaon"
+		},
+		{
+			"id": "955",
+			"city": "Patuakhali Sadar, Patuakhali"
+		},
+		{
+			"id": "358",
+			"city": "Patuatuly, Dhaka"
+		},
+		{
+			"id": "1020",
+			"city": "Pekua, Cox's Bazar"
+		},
+		{
+			"id": "961",
+			"city": "Perojpur Sadar, Perojpur"
+		},
+		{
+			"id": "1068",
+			"city": "Phulbari (Dinajpur), Dinajpur"
+		},
+		{
+			"id": "1160",
+			"city": "Phulbaria, Dhaka"
+		},
+		{
+			"id": "786",
+			"city": "Phultala, Khulna"
+		},
+		{
+			"id": "112",
+			"city": "Pilkhana, Dhaka"
+		},
+		{
+			"id": "1172",
+			"city": "Pirerbag, Dhaka"
+		},
+		{
+			"id": "1111",
+			"city": "Pirgacha, Rangpur"
+		},
+		{
+			"id": "1112",
+			"city": "Pirganj(Rangpur), Rangpur"
+		},
+		{
+			"id": "1117",
+			"city": "Pirganj(Thakurgaon), Thakurgaon"
+		},
+		{
+			"id": "1215",
+			"city": "Polashi, Dhaka"
+		},
+		{
+			"id": "848",
+			"city": "Porsha, Naogaon"
+		},
+		{
+			"id": "1234",
+			"city": "Poschim Badda, Dhaka"
+		},
+		{
+			"id": "415",
+			"city": "Postogola, Dhaka"
+		},
+		{
+			"id": "1308",
+			"city": "Prembagan, Dhaka"
+		},
+		{
+			"id": "143",
+			"city": "Press Club, Dhaka"
+		},
+		{
+			"id": "123",
+			"city": "Puran Dhaka, Dhaka"
+		},
+		{
+			"id": "288",
+			"city": "Purana Paltan, Dhaka"
+		},
+		{
+			"id": "726",
+			"city": "Purbadhala, Netrokona"
+		},
+		{
+			"id": "1235",
+			"city": "Purbo Badda, Dhaka"
+		},
+		{
+			"id": "1223",
+			"city": "Purbo Rampura, Dhaka"
+		},
+		{
+			"id": "1343",
+			"city": "Purobi, Dhaka"
+		},
+		{
+			"id": "873",
+			"city": "Putia, Rajshahi"
+		},
+		{
+			"id": "880",
+			"city": "Raiganj, Sirajganj"
+		},
+		{
+			"id": "1290",
+			"city": "Rail Station, Dhaka"
+		},
+		{
+			"id": "1258",
+			"city": "Railway Colony, Dhaka"
+		},
+		{
+			"id": "30",
+			"city": "Rainkhola, Dhaka"
+		},
+		{
+			"id": "1041",
+			"city": "Raipur, Laksmipur"
+		},
+		{
+			"id": "715",
+			"city": "Raipura, Norshingdi"
+		},
+		{
+			"id": "948",
+			"city": "Rajapur, Jhalokathi"
+		},
+		{
+			"id": "1259",
+			"city": "Rajar Dewri, Dhaka"
+		},
+		{
+			"id": "267",
+			"city": "Rajarbag, Dhaka"
+		},
+		{
+			"id": "1087",
+			"city": "Rajarhat, Kurigram"
+		},
+		{
+			"id": "1060",
+			"city": "Rajasthali, Rangamati"
+		},
+		{
+			"id": "730",
+			"city": "Rajbari Sadar, Rajbari"
+		},
+		{
+			"id": "1146",
+			"city": "Rajia Sultana Road, Dhaka"
+		},
+		{
+			"id": "1088",
+			"city": "Rajibpur, Kurigram"
+		},
+		{
+			"id": "897",
+			"city": "Rajnagar, Moulvibazar"
+		},
+		{
+			"id": "679",
+			"city": "Rajoir, Madaripur"
+		},
+		{
+			"id": "1121",
+			"city": "Rajshahi Shadar, Rajshahi"
+		},
+		{
+			"id": "1040",
+			"city": "Ramganj, Laksmipur"
+		},
+		{
+			"id": "1039",
+			"city": "Ramgati, Laksmipur"
+		},
+		{
+			"id": "1037",
+			"city": "Ramgor, Khagrachari"
+		},
+		{
+			"id": "150",
+			"city": "Ramna, Dhaka"
+		},
+		{
+			"id": "762",
+			"city": "Rampal, Bagerhat"
+		},
+		{
+			"id": "161",
+			"city": "Rampura, Dhaka"
+		},
+		{
+			"id": "1328",
+			"city": "Rampura TV center, Dhaka"
+		},
+		{
+			"id": "1021",
+			"city": "Ramu, Cox's Bazar"
+		},
+		{
+			"id": "1295",
+			"city": "Ranavola, Dhaka"
+		},
+		{
+			"id": "1061",
+			"city": "Rangamati Sadar, Rangamati"
+		},
+		{
+			"id": "1113",
+			"city": "Rangpur Sadar, Rangpur"
+		},
+		{
+			"id": "995",
+			"city": "Rangunia, Chittagong"
+		},
+		{
+			"id": "849",
+			"city": "Raninagar, Naogaon"
+		},
+		{
+			"id": "1118",
+			"city": "Ranishankail, Thakurgaon"
+		},
+		{
+			"id": "996",
+			"city": "Raujan, Chittagong"
+		},
+		{
+			"id": "967",
+			"city": "Rawanchari, Bandarban"
+		},
+		{
+			"id": "109",
+			"city": "Rayer Bazar, Dhaka"
+		},
+		{
+			"id": "411",
+			"city": "RayerBag, Dhaka"
+		},
+		{
+			"id": "100",
+			"city": "Razabazar, Dhaka"
+		},
+		{
+			"id": "1143",
+			"city": "Ring Road, Dhaka"
+		},
+		{
+			"id": "1268",
+			"city": "Rosulbagh, Dhaka"
+		},
+		{
+			"id": "1089",
+			"city": "Rowmari, Kurigram"
+		},
+		{
+			"id": "968",
+			"city": "Ruma, Bandarban"
+		},
+		{
+			"id": "709",
+			"city": "Rupganj, Narayanganj"
+		},
+		{
+			"id": "28",
+			"city": "Rupnagar Residential Area, Dhaka"
+		},
+		{
+			"id": "1344",
+			"city": "Rupnagor, Dhaka"
+		},
+		{
+			"id": "789",
+			"city": "Rupsa, Khulna"
+		},
+		{
+			"id": "189",
+			"city": "Sabujbag, Dhaka"
+		},
+		{
+			"id": "875",
+			"city": "Sadar, Rajshahi"
+		},
+		{
+			"id": "406",
+			"city": "Sadarghat (Dhaka), Dhaka"
+		},
+		{
+			"id": "645",
+			"city": "Sadarpur, Faridpur"
+		},
+		{
+			"id": "1079",
+			"city": "Sadullapur, Gaibandha"
+		},
+		{
+			"id": "1101",
+			"city": "Saidpur, Nilphamari"
+		},
+		{
+			"id": "646",
+			"city": "Saltha, Faridpur"
+		},
+		{
+			"id": "997",
+			"city": "Sandwip, Chittagong"
+		},
+		{
+			"id": "864",
+			"city": "Santhia, Pabna"
+		},
+		{
+			"id": "977",
+			"city": "Sarail, Brahmanbaria"
+		},
+		{
+			"id": "763",
+			"city": "Sarankhola, Bagerhat"
+		},
+		{
+			"id": "825",
+			"city": "Sariakandi, Bogra"
+		},
+		{
+			"id": "1261",
+			"city": "Sat rowja, Dhaka"
+		},
+		{
+			"id": "1236",
+			"city": "Sat-tola Bazar, Dhaka"
+		},
+		{
+			"id": "1198",
+			"city": "Sataish, Dhaka"
+		},
+		{
+			"id": "1202",
+			"city": "Satarkul, Dhaka"
+		},
+		{
+			"id": "998",
+			"city": "Satkania, Chittagong"
+		},
+		{
+			"id": "815",
+			"city": "Satkhira Sadar, Satkhira"
+		},
+		{
+			"id": "1216",
+			"city": "Satmoshjid Road, Dhaka"
+		},
+		{
+			"id": "1240",
+			"city": "Satrasta, Dhaka"
+		},
+		{
+			"id": "685",
+			"city": "Saturia, Manikganj"
+		},
+		{
+			"id": "53",
+			"city": "Savar, Dhaka"
+		},
+		{
+			"id": "61",
+			"city": "Savar Cantonment, Dhaka"
+		},
+		{
+			"id": "405",
+			"city": "Sayedabad, Dhaka"
+		},
+		{
+			"id": "326",
+			"city": "Science Lab, Dhaka"
+		},
+		{
+			"id": "1048",
+			"city": "Senbag, Noakhali"
+		},
+		{
+			"id": "1345",
+			"city": "Senpara, Dhaka"
+		},
+		{
+			"id": "691",
+			"city": "Serajdikhan, Munshiganj"
+		},
+		{
+			"id": "1080",
+			"city": "Shaghatta, Gaibandha"
+		},
+		{
+			"id": "33",
+			"city": "Shagufta, Dhaka"
+		},
+		{
+			"id": "90",
+			"city": "Shah Ali Bag, Dhaka"
+		},
+		{
+			"id": "881",
+			"city": "Shahajadpur (Sirajganj), Sirajganj"
+		},
+		{
+			"id": "162",
+			"city": "Shahbag, Dhaka"
+		},
+		{
+			"id": "1237",
+			"city": "Shaheenbagh, Dhaka"
+		},
+		{
+			"id": "1213",
+			"city": "Shahidnagar, Dhaka"
+		},
+		{
+			"id": "79",
+			"city": "Shahjadpur, Dhaka"
+		},
+		{
+			"id": "171",
+			"city": "Shahjahanpur, Dhaka"
+		},
+		{
+			"id": "1132",
+			"city": "Shahjahanpur (Dhaka), Dhaka"
+		},
+		{
+			"id": "985",
+			"city": "Shahrasti, Chandpur"
+		},
+		{
+			"id": "781",
+			"city": "Shailkupa, Jhenaidah"
+		},
+		{
+			"id": "829",
+			"city": "Shajahanpur Bogura, Bogra"
+		},
+		{
+			"id": "355",
+			"city": "Shakhari Bazar, Dhaka"
+		},
+		{
+			"id": "752",
+			"city": "Shakhipur, Tangail"
+		},
+		{
+			"id": "803",
+			"city": "Shalikha, Magura"
+		},
+		{
+			"id": "108",
+			"city": "Shankar, Dhaka"
+		},
+		{
+			"id": "152",
+			"city": "Shantibag, Dhaka"
+		},
+		{
+			"id": "151",
+			"city": "Shantinagar, Dhaka"
+		},
+		{
+			"id": "850",
+			"city": "Shapahar, Naogaon"
+		},
+		{
+			"id": "737",
+			"city": "Shariatpur Sadar, Shariatpur"
+		},
+		{
+			"id": "663",
+			"city": "Sharishabari, Jamalpur"
+		},
+		{
+			"id": "775",
+			"city": "Sharsha, Jessore"
+		},
+		{
+			"id": "266",
+			"city": "Shegunbagicha, Dhaka"
+		},
+		{
+			"id": "426",
+			"city": "Shekhertek, Dhaka"
+		},
+		{
+			"id": "19",
+			"city": "Sher-E-Bangla Nagar, Dhaka"
+		},
+		{
+			"id": "826",
+			"city": "Sherpur (Bogra), Bogra"
+		},
+		{
+			"id": "741",
+			"city": "Sherpur Sadar, Sherpur"
+		},
+		{
+			"id": "45",
+			"city": "Shewra, Dhaka"
+		},
+		{
+			"id": "276",
+			"city": "Shewrapara, Dhaka"
+		},
+		{
+			"id": "686",
+			"city": "Shibalaya, Manikganj"
+		},
+		{
+			"id": "680",
+			"city": "Shibchar, Madaripur"
+		},
+		{
+			"id": "827",
+			"city": "Shibganj ( Bogra ), Bogra"
+		},
+		{
+			"id": "1134",
+			"city": "Shibganj (Thakurgaon Sadar), Thakurgaon"
+		},
+		{
+			"id": "716",
+			"city": "Shibpur, Norshingdi"
+		},
+		{
+			"id": "190",
+			"city": "Shiddheswari, Dhaka"
+		},
+		{
+			"id": "834",
+			"city": "Shipganj ( Chapai ), Chapai Nawabganj"
+		},
+		{
+			"id": "313",
+			"city": "Shonir Akhra, Dhaka"
+		},
+		{
+			"id": "1217",
+			"city": "Shukrabad, Dhaka"
+		},
+		{
+			"id": "404",
+			"city": "Shwamibag, Dhaka"
+		},
+		{
+			"id": "816",
+			"city": "Shyamnagar, Satkhira"
+		},
+		{
+			"id": "6",
+			"city": "Shyamoli, Dhaka"
+		},
+		{
+			"id": "292",
+			"city": "Shyampur, Dhaka"
+		},
+		{
+			"id": "1123",
+			"city": "Siddhirganj, Narayanganj"
+		},
+		{
+			"id": "124",
+			"city": "Siddique Bazar, Dhaka"
+		},
+		{
+			"id": "319",
+			"city": "Siddweswari, Dhaka"
+		},
+		{
+			"id": "1274",
+			"city": "Signboard, Dhaka"
+		},
+		{
+			"id": "687",
+			"city": "Singair, Manikganj"
+		},
+		{
+			"id": "856",
+			"city": "Singra, Natore"
+		},
+		{
+			"id": "1208",
+			"city": "Sipahibag, Dhaka"
+		},
+		{
+			"id": "882",
+			"city": "Sirajganj Sadar, Sirajganj"
+		},
+		{
+			"id": "999",
+			"city": "Sitakundu, Chittagong"
+		},
+		{
+			"id": "327",
+			"city": "Sobhanbag, Dhaka"
+		},
+		{
+			"id": "1312",
+			"city": "Society, Dhaka"
+		},
+		{
+			"id": "1130",
+			"city": "soho area, Bandarban"
+		},
+		{
+			"id": "1244",
+			"city": "Solmaid, Dhaka"
+		},
+		{
+			"id": "791",
+			"city": "Sonadanga, Khulna"
+		},
+		{
+			"id": "1029",
+			"city": "Sonagazi, Feni"
+		},
+		{
+			"id": "1049",
+			"city": "Sonaimuri, Noakhali"
+		},
+		{
+			"id": "710",
+			"city": "Sonargaon, Narayanganj"
+		},
+		{
+			"id": "828",
+			"city": "Sonatola, Bogra"
+		},
+		{
+			"id": "82",
+			"city": "South Badda, Dhaka"
+		},
+		{
+			"id": "93",
+			"city": "South Baridhara, DIT Project, Dhaka"
+		},
+		{
+			"id": "89",
+			"city": "South Monipur, Dhaka"
+		},
+		{
+			"id": "910",
+			"city": "South Sunamganj, Sunamganj"
+		},
+		{
+			"id": "922",
+			"city": "South Surma, Sylhet"
+		},
+		{
+			"id": "898",
+			"city": "Sreemongal, Moulvibazar"
+		},
+		{
+			"id": "692",
+			"city": "Sreenagar, Munshiganj"
+		},
+		{
+			"id": "651",
+			"city": "Sreepur(Gazipur), Gazipur"
+		},
+		{
+			"id": "804",
+			"city": "Sreepur(Magura), Magura"
+		},
+		{
+			"id": "742",
+			"city": "Sribordi, Sherpur"
+		},
+		{
+			"id": "1050",
+			"city": "Subarnachar, Noakhali"
+		},
+		{
+			"id": "1238",
+			"city": "Subastu, Dhaka"
+		},
+		{
+			"id": "865",
+			"city": "Sujanagar, Pabna"
+		},
+		{
+			"id": "101",
+			"city": "Sukrabad, Dhaka"
+		},
+		{
+			"id": "907",
+			"city": "Sulla, Sunamganj"
+		},
+		{
+			"id": "908",
+			"city": "Sunamganj Sadar, Sunamganj"
+		},
+		{
+			"id": "1081",
+			"city": "Sundarganj, Gaibandha"
+		},
+		{
+			"id": "1288",
+			"city": "Surtaranga, Dhaka"
+		},
+		{
+			"id": "284",
+			"city": "Sutrapur, Dhaka"
+		},
+		{
+			"id": "921",
+			"city": "Sylhet Sadar, Sylhet"
+		},
+		{
+			"id": "909",
+			"city": "Taherpur, Sunamganj"
+		},
+		{
+			"id": "1144",
+			"city": "Tajmahal Road, Dhaka"
+		},
+		{
+			"id": "944",
+			"city": "Tajumuddin, Bhola"
+		},
+		{
+			"id": "817",
+			"city": "Tala, Satkhira"
+		},
+		{
+			"id": "110",
+			"city": "Tallabag, Dhaka"
+		},
+		{
+			"id": "1173",
+			"city": "Taltola, Dhaka"
+		},
+		{
+			"id": "753",
+			"city": "Tangail Sadar, Tangail"
+		},
+		{
+			"id": "693",
+			"city": "Tangibari, Munshiganj"
+		},
+		{
+			"id": "874",
+			"city": "Tanore, Rajshahi"
+		},
+		{
+			"id": "1262",
+			"city": "Tantibazar, Dhaka"
+		},
+		{
+			"id": "1114",
+			"city": "Taraganj, Rangpur"
+		},
+		{
+			"id": "676",
+			"city": "Tarail, Kishoreganj"
+		},
+		{
+			"id": "883",
+			"city": "Tarash, Sirajganj"
+		},
+		{
+			"id": "1289",
+			"city": "Targach, Dhaka"
+		},
+		{
+			"id": "120",
+			"city": "Tatibazar, Dhaka"
+		},
+		{
+			"id": "1335",
+			"city": "Technical, Dhaka"
+		},
+		{
+			"id": "98",
+			"city": "Tejgaon, Dhaka"
+		},
+		{
+			"id": "99",
+			"city": "Tejkunipara, Dhaka"
+		},
+		{
+			"id": "1022",
+			"city": "Teknaf, Cox's Bazar"
+		},
+		{
+			"id": "1241",
+			"city": "Tekpara Adorsonagor, Dhaka"
+		},
+		{
+			"id": "794",
+			"city": "Terokhada, Khulna"
+		},
+		{
+			"id": "1211",
+			"city": "Teskunipara, Dhaka"
+		},
+		{
+			"id": "1106",
+			"city": "Tetulia, Panchagarh"
+		},
+		{
+			"id": "1119",
+			"city": "Thakurgaon Sadar, Thakurgaon"
+		},
+		{
+			"id": "969",
+			"city": "Thanchi, Bandarban"
+		},
+		{
+			"id": "125",
+			"city": "Tikatuly, Dhaka"
+		},
+		{
+			"id": "1013",
+			"city": "Titas, Comilla"
+		},
+		{
+			"id": "1169",
+			"city": "Tolarbag, Dhaka"
+		},
+		{
+			"id": "63",
+			"city": "Tongi, Gazipur"
+		},
+		{
+			"id": "1196",
+			"city": "Tongi Bazar, Dhaka"
+		},
+		{
+			"id": "705",
+			"city": "Trishal, Mymensingh"
+		},
+		{
+			"id": "1209",
+			"city": "TT Para, Dhaka"
+		},
+		{
+			"id": "656",
+			"city": "Tungipara, Gopalganj"
+		},
+		{
+			"id": "1164",
+			"city": "Turag, Dhaka"
+		},
+		{
+			"id": "1329",
+			"city": "TV gate, Dhaka"
+		},
+		{
+			"id": "1023",
+			"city": "Ukhia, Cox's Bazar"
+		},
+		{
+			"id": "1330",
+			"city": "Ulan road, Dhaka"
+		},
+		{
+			"id": "1090",
+			"city": "Ulipur, Kurigram"
+		},
+		{
+			"id": "884",
+			"city": "Ullapara, Sirajganj"
+		},
+		{
+			"id": "1242",
+			"city": "Uttar Badda, Dhaka"
+		},
+		{
+			"id": "46",
+			"city": "Uttara, Dhaka"
+		},
+		{
+			"id": "1157",
+			"city": "Uttara Sector 11, Dhaka"
+		},
+		{
+			"id": "1153",
+			"city": "Uttara Sector 14, Dhaka"
+		},
+		{
+			"id": "1154",
+			"city": "Uttara Sector 3, Dhaka"
+		},
+		{
+			"id": "1152",
+			"city": "Uttara Sector 5, Dhaka"
+		},
+		{
+			"id": "1155",
+			"city": "Uttara Sector 7, Dhaka"
+		},
+		{
+			"id": "1156",
+			"city": "Uttara Sector 9, Dhaka"
+		},
+		{
+			"id": "1147",
+			"city": "Uttara Sector-4, Dhaka"
+		},
+		{
+			"id": "47",
+			"city": "Uttarkhan, Dhaka"
+		},
+		{
+			"id": "1292",
+			"city": "Uttarkhan Mazar, Dhaka"
+		},
+		{
+			"id": "80",
+			"city": "Uttor Badda, Dhaka"
+		},
+		{
+			"id": "24",
+			"city": "Vashantek, Dhaka"
+		},
+		{
+			"id": "73",
+			"city": "Vatara, Dhaka"
+		},
+		{
+			"id": "135",
+			"city": "Wari, Dhaka"
+		},
+		{
+			"id": "937",
+			"city": "Wazirpur, Barisal"
+		},
+		{
+			"id": "107",
+			"city": "West Dhanmondi, Dhaka"
+		},
+		{
+			"id": "1243",
+			"city": "Wireless, Dhaka"
+		},
+		{
+			"id": "735",
+			"city": "Zajira, Shariatpur"
+		},
+		{
+			"id": "919",
+			"city": "Zakiganj, Sylhet"
+		},
+		{
+			"id": "1175",
+			"city": "Zia Colony, Dhaka"
+		},
+		{
+			"id": "962",
+			"city": "Zia Nagar (Indurkani), Perojpur"
+		},
+		{
+			"id": "273",
+			"city": "Zigatola, Dhaka"
+		},
+		{
+			"id": "1184",
+			"city": "Zinzira, Dhaka"
+		},
+		{
+			"id": "1347",
+			"city": "Zoo, Dhaka"
+		}
+	]
+}
